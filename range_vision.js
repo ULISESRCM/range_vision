@@ -40,3 +40,6 @@ console.log(range_vision(3));
 console.log(range_vision(1));
 console.log(range_vision(5));
 
+//nome quedo clarala consigna de "La función debe devolver un booleano: true cuando 
+//un dígito 1 tiene el valor de vista más bajo en el número dado, false de lo contrario."
+//entiendo que no cumple al 100%
